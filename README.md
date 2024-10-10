@@ -1,4 +1,4 @@
-#Telegram Image Enhancer Bot
+Telegram Image Enhancer Bot
 
 This project is a Telegram bot developed using Python and the aiogram library. The bot allows users to upload low-quality images, and it enhances them by improving their resolution and overall quality. This addresses a common problem, as many users frequently deal with low-resolution images.
 Features
